@@ -1,4 +1,4 @@
-Lab 5: File I/O and Structs
+# Lab 5: File I/O and Structs
 Due date: Friday 8 February before 6:30pm.
 
 Introduction
