@@ -1,4 +1,4 @@
-Lab 2: Pointers and Input
+# Lab 2: Pointers and Input
 Due date: Friday 18 January before 6:30pm. Submissions made after the deadline will not be accepted.
 
 Introduction
